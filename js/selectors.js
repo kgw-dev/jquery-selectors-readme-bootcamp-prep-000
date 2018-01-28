@@ -5,3 +5,6 @@ function paragraphSelector(){
 function paragraphSelector(){
   $('p');
 }
+function heyEverybody(){
+  $("#yo").append("Hey everybody!!!");
+}
