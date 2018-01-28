@@ -15,3 +15,7 @@ function ninjaBabySelector(){
 function divSelector(){
   $('img:last-child');
 }
+
+function firstListItem(){
+  $('img:last-child');
+}
