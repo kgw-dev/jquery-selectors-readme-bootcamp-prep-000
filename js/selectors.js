@@ -1,15 +1,15 @@
 // declare your functions here...
 
 function paragraphSelector(){
-  $('p');
+  return ($('p'));
 }
 
 function lastimageSelector(){
-  $('img:last-child');
+  return ($('img:last-child'));
 }
 
 function ninjaBabySelector(){
-  $('img:last-child');
+  return ($('#baby-ninja'));
 }
 
 function divSelector(){
