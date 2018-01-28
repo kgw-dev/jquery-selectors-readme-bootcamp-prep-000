@@ -2,9 +2,6 @@
 function paragraphSelector(){
   $('p');
 }
-function paragraphSelector(){
+function lastimageSelector(){
   $('p');
-}
-function heyEverybody(){
-  $("#yo").append("Hey everybody!!!");
 }
