@@ -4,7 +4,7 @@ function paragraphSelector(){
   return ($('p'));
 }
 
-function lastimageSelector(){
+function lastImageSelector(){
   return ($('div img:last-child'));
 }
 
